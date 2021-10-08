@@ -15,3 +15,13 @@ body{
 #galeria img:hover {
     border: 5px solid #f7f7f7;
 }
+
+.imagen-larga {
+    width: 65%;
+    height: 50%;
+}
+
+.imagen-larga2 {
+    width: 95%;
+    height: 50%;
+}
