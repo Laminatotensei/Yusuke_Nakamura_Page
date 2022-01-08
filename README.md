@@ -4,7 +4,7 @@ Fan page del artista Yusuke Nakamura
 !![Nakamura Logo](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/blob/main/icono.jpg)
 
 ## Index
-!![Index](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/blob/main/IMAGENES/readme/1.jpg)
+!![Index](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/tree/main/IMAGES/readme/1.jpg)
 Por el lado del index tenemos:
 ***
 * Al hacer click en "YUSUKE NAKAMURA" o "Home" nos lleva a la página de la fan page de Yusuke Nakamura
@@ -16,7 +16,7 @@ Por el lado del index tenemos:
 ***
 
 ## About
-!![About](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/blob/main/IMAGENES/readme/2.jpg)
+!![About](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/tree/main/IMAGES/readme/2.jpg)
 Por el lado de "About" tenemos:
 ***
 * Un breve articulo sobre el artista
@@ -27,7 +27,7 @@ Por el lado de "About" tenemos:
 ***
 
 ## Portfolio
-!![Portfolio](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/blob/main/IMAGENES/readme/3.jpg)
+!![Portfolio](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/tree/main/IMAGES/readme/3.jpg)
 Por el lado de "Portfolio" tenemos:
 ***
 * Una galería de todos los proyectos que haya hecho el artista
@@ -38,7 +38,7 @@ Por el lado de "Portfolio" tenemos:
 ***
 
 ## AKFG Gallery
-!![AKFG Gallery](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/blob/main/IMAGENES/readme/4.jpg)
+!![AKFG Gallery](https://github.com/Laminatotensei/Yusuke_Nakamura_Page/tree/main/IMAGES/readme/4.jpg)
 Por el lado de "AKFG Gallery" tenemos:
 ***
 * Una galería de algunos los albums que haya hecho la banda Asian Kung-Fu Generation y diseñado por el artista
